@@ -19,7 +19,7 @@ export default {
       border-bottom: 1px solid #3c3c3c3c; 
     }
     .recommened{
-        border:  1px solid black;
+        /* border:  1px solid black; */
         padding-top: 10px;
     }
 </style>

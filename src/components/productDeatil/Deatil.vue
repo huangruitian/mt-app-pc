@@ -33,7 +33,7 @@ export default {
 </script>
 <style>
     .deatil{
-        border: 1px solid black;
+        /* border: 1px solid black; */
         padding-top: 10px;
     }
     /* .left-box, */

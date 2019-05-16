@@ -17,7 +17,7 @@
 </script>
 <style>
     .coupon{
-        border: 1px solid black;
+        /* border: 1px solid black; */
         padding-top: 10px;
     }
     .coupon-item{
