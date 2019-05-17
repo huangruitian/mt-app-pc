@@ -71,25 +71,11 @@
         components: {
             MSelect,
         },
-        computed: {
-
-        },
         data() {
             return {
                 dataStr: '',
                 classicList: [],
-                areaList: [
-                    // {
-                    //     "title": "推荐商圈",
-                    //     "subList": [{
-                    //         "name": "望京",
-                    //         "id": 120000
-                    //     }, {
-                    //         "name": "昌平",
-                    //         "id": 12222
-                    //     }]
-                    // }
-                ]
+                areaList: [],
             }
         },
     }
